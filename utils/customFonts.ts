@@ -33,7 +33,7 @@ const ClashDisplay = localFont({
       style: "normal",
     },
     {
-      path: "../assets/fonts/clashdisplay/ClashDisplay-bold.otf",
+      path: "../assets/fonts/clashdisplay/ClashDisplay-Bold.otf",
       weight: "700",
       style: "normal",
     },
